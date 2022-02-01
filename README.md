@@ -1,2 +1,2 @@
 # kubeflowDemo
-kubeflowDemo
+kubeflowDemo demo on GCP
